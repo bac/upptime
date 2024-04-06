@@ -4,19 +4,19 @@
     "url": "https://nomfoundation.org/About-the-Foundation/About-the-VNPF",
     "icon": "https://icons.duckduckgo.com/ip3/nomfoundation.org.ico",
     "slug": "nom-foundation-web-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 352,
-    "timeWeek": 346,
-    "timeMonth": 377,
-    "timeYear": 439,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 436,
+    "timeDay": 293,
+    "timeWeek": 330,
+    "timeMonth": 372,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-04-06": 1
+      "2024-04-06": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://lib.nomfoundation.org/collection/1/",
     "icon": "https://icons.duckduckgo.com/ip3/lib.nomfoundation.org.ico",
     "slug": "nom-foundation-library-web-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 570,
-    "timeWeek": 490,
-    "timeMonth": 487,
-    "timeYear": 513,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 509,
+    "timeDay": 431,
+    "timeWeek": 462,
+    "timeMonth": 481,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2024-04-06": 0
+      "2024-04-06": 13
     }
   }
 ]
