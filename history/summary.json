@@ -4,10 +4,10 @@
     "url": "https://nomfoundation.org/About-the-Foundation/About-the-VNPF",
     "icon": "https://icons.duckduckgo.com/ip3/nomfoundation.org.ico",
     "slug": "nom-foundation-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
@@ -15,14 +15,16 @@
     "timeWeek": 346,
     "timeMonth": 377,
     "timeYear": 439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-06": 1
+    }
   },
   {
     "name": "Nom Foundation library web app",
     "url": "https://lib.nomfoundation.org/collection/1/",
     "icon": "https://icons.duckduckgo.com/ip3/lib.nomfoundation.org.ico",
     "slug": "nom-foundation-library-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 490,
     "timeMonth": 487,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-06": 0
+    }
   }
 ]
