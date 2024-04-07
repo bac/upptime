@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nomfoundation.org.ico",
     "slug": "nom-foundation-web-site",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 436,
-    "timeDay": 293,
-    "timeWeek": 330,
-    "timeMonth": 372,
-    "timeYear": 436,
-    "dailyMinutesDown": {
-      "2024-04-06": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 435,
+    "timeDay": 285,
+    "timeWeek": 339,
+    "timeMonth": 366,
+    "timeYear": 435,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nom Foundation library web app",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lib.nomfoundation.org.ico",
     "slug": "nom-foundation-library-web-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 509,
-    "timeDay": 431,
-    "timeWeek": 462,
-    "timeMonth": 481,
-    "timeYear": 509,
-    "dailyMinutesDown": {
-      "2024-04-06": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 507,
+    "timeDay": 311,
+    "timeWeek": 448,
+    "timeMonth": 473,
+    "timeYear": 507,
+    "dailyMinutesDown": {}
   }
 ]
