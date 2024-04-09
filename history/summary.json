@@ -22,19 +22,19 @@
     "url": "https://lib.nomfoundation.org/collection/1/",
     "icon": "https://icons.duckduckgo.com/ip3/lib.nomfoundation.org.ico",
     "slug": "nom-foundation-library-web-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.86%",
     "time": 505,
-    "timeDay": 585,
-    "timeWeek": 435,
-    "timeMonth": 473,
+    "timeDay": 563,
+    "timeWeek": 447,
+    "timeMonth": 475,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-04-09": 0
+      "2024-04-09": 133
     }
   }
 ]
