@@ -22,7 +22,7 @@
     "url": "https://lib.nomfoundation.org/collection/1/",
     "icon": "https://icons.duckduckgo.com/ip3/lib.nomfoundation.org.ico",
     "slug": "nom-foundation-library-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 525,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2024-11-28": 0,
       "2024-04-09": 133
     }
   }
