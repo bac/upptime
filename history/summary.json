@@ -4,9 +4,9 @@
     "url": "https://nomfoundation.org/About-the-Foundation/About-the-VNPF",
     "icon": "https://icons.duckduckgo.com/ip3/nomfoundation.org.ico",
     "slug": "nom-foundation-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 429,
     "timeMonth": 427,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 0
+    }
   },
   {
     "name": "Nom Foundation library web app",
