@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 413,
-    "timeDay": 426,
-    "timeWeek": 427,
+    "timeDay": 381,
+    "timeWeek": 420,
     "timeMonth": 429,
-    "timeYear": 415,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2025-03-11": 51
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lib.nomfoundation.org.ico",
     "slug": "nom-foundation-library-web-app",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 536,
-    "timeDay": 614,
-    "timeWeek": 615,
-    "timeMonth": 634,
+    "timeDay": 570,
+    "timeWeek": 603,
+    "timeMonth": 633,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2025-03-11": 33,
