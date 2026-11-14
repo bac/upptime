@@ -37,13 +37,13 @@
     "url": "https://lib.nomfoundation.org/collection/1/",
     "icon": "https://icons.duckduckgo.com/ip3/lib.nomfoundation.org.ico",
     "slug": "nom-foundation-library-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 505,
+    "time": 504,
     "timeDay": 578,
     "timeWeek": 483,
     "timeMonth": 493,
@@ -64,7 +64,8 @@
       "2026-05-22": 17,
       "2026-06-30": 175,
       "2026-08-13": 50,
-      "2026-08-19": 22
+      "2026-08-19": 22,
+      "2026-11-14": 0
     }
   }
 ]
